@@ -18,7 +18,7 @@ Internet Speed Tester is a simple GUI application built using Python and Tkinter
 
 ### Setup
 1. Clone the repository (git clone) or download the source code.
-2. Install the required packages (if not already installed) - pip install speedtest-cli
+2. Install the required packages (pip install speedtest-cli)
 
 ## Usage
 To run the application, navigate to the project directory and execute the main script.

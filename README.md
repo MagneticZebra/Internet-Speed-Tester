@@ -1,4 +1,5 @@
 # Internet Speed Tester
+![image](https://github.com/MagneticZebra/Internet-Speed-Tester/assets/87204308/bba670c5-d465-45ff-b8cc-9dbb43e52c1d)
 
 ## Description
 Internet Speed Tester is a simple GUI application built using Python and Tkinter. It allows users to check their internet connection's download and upload speeds. The application features an animated rocket GIF and displays real-time speed test results.
